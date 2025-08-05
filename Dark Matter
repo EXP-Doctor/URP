@@ -12,9 +12,11 @@ gravitationally but not electromagnetically. While this model fits observation, 
 within recursive space-time fabric.
 
 Theory: Recursive Gravity and Compression Gradients
+Gravity is a gradient density in recursive space. No curvature, no time as a dimension.
 URP replaces gravitational curvature with recursive compression:
     F_grav = -∇ρ_n(x)
 Where ρ_n(x) represents the recursive update density at location x. Unlike geometry-based models, URP treats space as a process of state referencing, where mass induces recursion density and compresses update intervals.
+
 
 The URP Equation (Pre-data)
  v_URP(r) = v_obs(r) / [1 + α * ∇ρ_n(r)]
@@ -44,3 +46,8 @@ The Universal Recursion Principle explains galactic rotation without dark matter
 recursive calculus in cosmological modeling.
 
 Keywords: Universal Recursion Principle, recursive calculus, gravity, dark matter, galaxy rotation curves, compression fields, SPARC, NGC 3198 
+
+
+Test Yourself
+You may contact me to recieve the results. I currently hold results for 31 galactic systems from the dataset within SPARC, all with mass measured correctly without any implications of missing mass.
+The key to scientific advancement is allowing the work to become reproducable. We are looking for validity, not parroting.
